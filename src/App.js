@@ -9,7 +9,7 @@ function Garage(){
   return (
     <>
     <h1>Who lives in Garage</h1>
-    <Car brand='Audi'/>
+    <Car brand='Mercedes'/>
     </>
   )
 }
